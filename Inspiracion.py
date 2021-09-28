@@ -1,0 +1,2 @@
+mensaje_inpirador = f'"Si buscas una novia, trata de que sea como Rusia: Fría y difícil de conquistar. Polonias hay en todos lados..."\n\t\t\t\t\t\t\t\t\t\t-Adolf "el lobo del amor" Hitler.'
+print(mensaje_inpirador)
